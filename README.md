@@ -2,6 +2,9 @@
 
 A beautiful, production-ready React app with **golden yellow theme** and **AI-powered question generation** using Claude/OpenAI!
 
+
+![Dashboard Screenshot](./dashboard.png)
+
 ## 🎨 New Design Features
 
 - **Beautiful Golden Yellow Theme** - Warm amber and golden colors throughout
